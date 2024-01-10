@@ -1,0 +1,18 @@
+The 6 grades you entered were:
+88
+77
+92
+82
+84
+72
+
+The maximum score on this test was a 92
+The minimum score on this test was a 72
+The average score on this test was a 82.5
+The median score on this test was a 0
+
+A's: 1
+B's: 3
+C's: 2
+D's: 0
+F's: 0
